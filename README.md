@@ -81,26 +81,26 @@ Para facilitar a organização e a navegação dos notebooks de protótipos dese
 ```
 notebooks/
 ├── 01-feature-store/
-│   └── Feature Store Demo.ipynb
+│   └── Feature_Store_Demo.ipynb
 ├── 02-custom-model/
-│   └── Custom Model Demo.ipynb
+│   └── Custom_Model_Demo.ipynb
 ├── 03-mlflow/
-│   └── MLflow Demo.ipynb
+│   └── MLflow_Demo.ipynb
 ├── 04-spark/
-│   └── Spark Demo.ipynb
+│   └── Spark_Demo.ipynb
 ├── 05-languages/
-│   └── Languages Demo.ipynb
+│   └── Languages_Demo.ipynb
 ├── data/         # (Opcional: dados de exemplo para os notebooks)
 ├── scripts/      # (Opcional: scripts auxiliares)
 ```
 
 ### Protótipos Disponíveis
 
-- [Feature Store Demo](notebooks/01-feature-store/Feature%20Store%20Demo.ipynb)
-- [Custom Model Demo](notebooks/02-custom-model/Custom%20Model%20Demo.ipynb)
-- [MLflow Demo](notebooks/03-mlflow/MLflow%20Demo.ipynb)
-- [Spark Demo](notebooks/04-spark/Spark%20Demo.ipynb)
-- [Languages Demo](notebooks/05-languages/Languages%20Demo.ipynb)
+- [Feature Store Demo](notebooks/01-feature-store/Feature_Store_Demo.ipynb)
+- [Custom Model Demo](notebooks/02-custom-model/Custom_Model_Demo.ipynb)
+- [MLflow Demo](notebooks/03-mlflow/MLflow_Demo.ipynb)
+- [Spark Demo](notebooks/04-spark/Spark_Demo.ipynb)
+- [Languages Demo](notebooks/05-languages/Languages_Demo.ipynb)
 
 > **Como navegar:**  
 > - Cada subpasta de `notebooks/` contém um notebook principal e um `README.md` explicativo.
