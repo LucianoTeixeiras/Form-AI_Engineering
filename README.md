@@ -78,6 +78,7 @@ Sinta-se à vontade para explorar os conteúdos e contribuir com sugestões.
 
 Para facilitar a organização e a navegação dos notebooks de protótipos desenvolvidos, recomenda-se a seguinte estrutura:
 
+```
 notebooks/
 ├── 01-feature-store/
 │   └── Feature Store Demo.ipynb
@@ -91,7 +92,7 @@ notebooks/
 │   └── Languages Demo.ipynb
 ├── data/         # (Opcional: dados de exemplo para os notebooks)
 ├── scripts/      # (Opcional: scripts auxiliares)
-
+```
 
 ### Protótipos Disponíveis
 
