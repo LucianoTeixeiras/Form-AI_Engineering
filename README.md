@@ -96,11 +96,11 @@ notebooks/
 
 ### Protótipos Disponíveis
 
-- [Feature Store Demo](notebooks/01-feature-store/Feature_Store_Demo.ipynb)
-- [Custom Model Demo](notebooks/02-custom-model/Custom_Model_Demo.ipynb)
-- [MLflow Demo](notebooks/03-mlflow/MLflow_Demo.ipynb)
-- [Spark Demo](notebooks/04-spark/Spark_Demo.ipynb)
-- [Languages Demo](notebooks/05-languages/Languages_Demo.ipynb)
+- [Feature Store Demo](01-feature-store/Feature_Store_Demo.ipynb)
+- [Custom Model Demo](02-custom-model/Custom_Model_Demo.ipynb)
+- [MLflow Demo](03-mlflow/MLflow_Demo.ipynb)
+- [Spark Demo](04-spark/Spark_Demo.ipynb)
+- [Languages Demo](05-languages/Languages_Demo.ipynb)
 
 > **Como navegar:**  
 > - Cada subpasta de `notebooks/` contém um notebook principal e um `README.md` explicativo.
